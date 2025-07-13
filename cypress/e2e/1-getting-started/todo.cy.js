@@ -23,7 +23,7 @@ describe('example to-do app', () => {
     assert(1 ===1);
   })
 
-  it('displays two todo items by default', () => {
+  it('displays @smoke', () => {
     assert(1 ===2);
   })
 
